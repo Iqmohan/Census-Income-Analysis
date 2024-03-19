@@ -13,6 +13,10 @@ Tasks Performed :
 Perform Exploratory Data Analysis to find key insights.
 Use various machine learning algorithms to predict the response variable
 Models Implemented:
+
 Logistic Regression
+
 Decision Tree
+
 Random Forest Classifier.
+
